@@ -12,13 +12,15 @@ Neste bootcamp de introdução à linguagem R, trabalharemos com dados abertos s
 
 ## Como vamos trabalhar?
 
-Trabalharemos com tutoriais de auto-aprendizado. Faremos o mínimo de exposição de conteúdos para que sobre bastante tempo para que as participantes possam treinar o uso da linguagem com nosso auxílio.
+Trabalharemos com tutoriais de auto-aprendizado. Faremos o mínimo de exposição de conteúdos para que sobre bastante tempo para as participantes treinarem o uso da linguagem com nosso auxílio.
 
 Com a flexibilidade que os tutoriais conferem à dinâmica da oficina, cada participante pode seguir o seu próprio ritmo. Ninguém fica entediado ou perdido. Respeite sempre o seu tempo de aprendizado.
 
-Sempre que tiver uma dúvida, por mais elementar que pareça, nos chame para ajudar a resolver. Quando dúvidas comuns aparecem ou são muito boas, vamos compartilhá-las coletivamente e aproveitar para conversar um pouco mais sobre a linguagem.
+Sempre que tiver uma dúvida, por mais elementar que pareça, nos chame para ajudar a resolver. Quando dúvidas comuns aparecerem ou forem muito boas, vamos compartilhá-las coletivamente e aproveitaremos para conversar um pouco mais sobre a linguagem.
 
-Os tutoriais ficarão neste repositório continuamente. Assim, você pode voltar a eles quando quiser para rever, usar de exemplo ou compartilhar com alguém que queria vir à oficina, mas não pôde.
+Os tutoriais ficarão neste repositório continuamente. Assim, você pode voltar a eles quando quiser rever, usar de exemplo ou compartilhar com alguém que queria vir à oficina, mas não pôde.
+
+É possível que o roteiro de hoje seja curto ou longo demais para o tempo que temos disponível. Se for curto, temos material de sobre para além do tutorial para passar. Se for muito longo, vamos conversando e encurtando as atividades para aproveitar o tempo da melhor maneira possível.
 
 ## Roteiro
 
@@ -29,6 +31,8 @@ Os tutoriais ficarão neste repositório continuamente. Assim, você pode voltar
 3 - Vamos treinar o que aprendemos até aqui com um exemplo utilizando dados de matrícula dos estudantes do município de São Paulo. Veja [aqui](https://github.com/leobarone/codabr_2019/blob/master/e1.md).
 
 4 - Finalmente, faremos um tour pelas principais geometrias de gráficos do principal pacote para visualização de dados em R, o _ggplot2_. Clique [aqui](https://github.com/leobarone/codabr_2019/blob/master/t3.md) para ir ao tutorial.
+
+5 - Análise coletiva de dados da educação: separaremos um pedaço do dia, se sobrar tempo, para produzirmos coletivamente a análise de algum problema a partir de dados abertos da educação (de São Paulo ou não).
 
 ## Onde seguir estudando a linguagem R?
 
